@@ -85,6 +85,9 @@
         --overlay-item-image-bottom: .5
     }
 }
+.anchor-color{
+    color: blue;
+}
 
 iframe[title=portal-notification] {
     display: none
@@ -356,7 +359,7 @@ body {
     font-family: var(--font-family-one);
     font-size: 20px;
     font-weight: var(--font-weight-one-regular);
-    line-height: 1.5;
+    line-height: 1;
     word-wrap: break-word;
     word-break: break-word;
     color: var(--color-font-one);
