@@ -87,6 +87,13 @@
 }
 .anchor-color{
     color: blue;
+   
+}
+.anchor-color:link{
+    text-decoration:none;
+}
+.anchor-color:hover{
+    text-decoration: underline;
 }
 
 iframe[title=portal-notification] {
