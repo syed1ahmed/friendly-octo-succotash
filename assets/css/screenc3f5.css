@@ -1266,7 +1266,8 @@ small.global-question a:hover {
     margin: 0;
     padding: 0;
     list-style: none;
-    word-break: normal
+    word-break: normal;
+    padding-right: 80px;
 }
 
 .header-nav nav>ul {
