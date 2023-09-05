@@ -421,6 +421,13 @@ input {
    
 }
 
+.h2-order{
+    font-size: 42px !important;
+    /* font-weight: var(--font-weight-one-bold) !important; */
+    font-family: var(--font-family-one) !important;
+   
+}
+
 input:focus {
     color: var(--color-font-one)
 }
