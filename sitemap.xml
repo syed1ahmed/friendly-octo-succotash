@@ -1,87 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://chiccdecor.com/</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://chiccdecor.com/</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/juli-smith.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/white-sheer-curtains.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/white-sheer-curtains.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/kitchen-tiles.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/kitchen-tiles.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/curtain-rod.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/curtain-rod.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/juli-smith.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/sea-blue-finals.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/sea-blue-finals.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/curtain-rod-finals.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/curtain-rod-finals.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/ceramic-tiles.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/ceramic-tiles.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/window-treatments-ideas.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/window-treatments-ideas.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/interior-doorhandles.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/interior-doorhandles.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/clean-sheercurtains.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/clean-sheercurtains.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/pampas-grass.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/pampas-grass.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/contact-us.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/contact-us.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/privacy-policy.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/privacy-policy.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chiccdecor.com/tiny-home.html</loc>
-  <lastmod>2023-09-09T17:26:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://chiccdecor.com/sustainable-interior.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-
-
+<url>
+<loc>https://chiccdecor.com/eco-friendly.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://chiccdecor.com/tiny-home.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://chiccdecor.com/french-country-design.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://chiccdecor.com/pet-friendly.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://chiccdecor.com/more-section.html</loc>
+<lastmod>2023-09-13T14:56:00+00:00</lastmod>
+<priority>0.64</priority>
+</url>
 </urlset>
