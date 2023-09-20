@@ -136,7 +136,7 @@
 
 <body class="author-template author-victoria global-cover-homepage">
 	<div class="global-cover"></div>
-
+	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 	<div class="global-wrap">
 		<div class="global-content">
 			<header class="header-section">
@@ -413,6 +413,17 @@
 										Flooring Trends of 2023</a></h2>
 							</div>
 						</article>
+						<article class="item global-image post tag-idea tag-lifestyle tag-people">
+							<a href="guest-room-design.html" class="global-link" aria-label="Guest Room Design"></a>
+							<img srcset="assets/img/guest-room-design.jpg" sizes="(max-width:480px) 400px, 800px"
+								src="assets/img/guest-room-design.jpg" loading="lazy" alt="Guest Room Design">
+							<div class="item-content global-mask is-image">
+								<h2 class="item-title"><a href="guest-room-design.html">Guest Room Design: Creating
+										a
+										Welcoming Space for Your Visitors</a>
+								</h2>
+							</div>
+						</article>
 
 					</div>
 				</div>
@@ -478,6 +489,33 @@
 			}
 		}
 	</style>
+	<script>
+		var newTitle = document.getElementById('post-title');
+		newTitle && (newTitle.innerHTML = "Don’t be <span>afraid</span>")
+	</script>
+	<script>
+		// Get the button:
+		let mybutton = document.getElementById("myBtn");
+
+		// When the user scrolls down 20px from the top of the document, show the button
+		window.onscroll = function () {
+			scrollFunction()
+		};
+
+		function scrollFunction() {
+			if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+				mybutton.style.display = "block";
+			} else {
+				mybutton.style.display = "none";
+			}
+		}
+
+		// When the user clicks on the button, scroll to the top of the document
+		function topFunction() {
+			document.body.scrollTop = 0; // For Safari
+			document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+		}
+	</script>
 </body>
 
 </html>
